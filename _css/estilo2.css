@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(235, 235, 235);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+nav{
+    width: 190px;
+    height: 605px;
+    background-color: rgb(170, 170, 170);
+    float:left;
+    box-sizing: 5px;
+    padding: 10px;  
+}
+ul.menurapido li{
+    width: 170px;
+    height: 50px;
+    line-height: 90px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    border-bottom: 1px solid #ffffff;
+    padding: 5px 10px;
+    color: #ffffff;
+    margin-top: 5px;
+}
+section {
+    width: 1005px;
+    height: 620px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    background-color: rgb(211, 209, 209);
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+.cbo{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
